@@ -1,0 +1,15 @@
+.cover {
+    max-width: 1184px;
+    /* display: flex; */
+    margin: auto;
+    background-image: url('../../images/cover-trains.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    opacity: 0.8;
+  }
+
+  .cover:hover {
+    opacity: 0.3;
+  }

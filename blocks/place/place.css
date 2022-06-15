@@ -1,0 +1,13 @@
+.place {
+    display: grid;
+    grid-template-columns: auto auto;
+    box-sizing: border-box;
+    gap: 48px 40px;
+    padding-bottom: 80px;
+}
+
+@media (max-width: 650px) {
+    .place {
+        grid-template-columns: auto;
+    }
+}
