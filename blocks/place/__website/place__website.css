@@ -1,4 +1,9 @@
 .place__website {
-    flex-direction: column;
-    justify-content: end;
+    align-self: end;
+}
+
+@media (max-width: 425px) {
+    .place__website {
+        padding: 0 16px 0;
+    }
 }

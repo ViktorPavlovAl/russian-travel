@@ -14,17 +14,12 @@
     }
 }
 
-@media (max-width: 768px) {
-    .lead__subtitle {
-        padding-top: 16px;
-    }
-}
-
 @media (max-width: 680px) {
     .lead__subtitle {
         padding-bottom: 40px;
         font-size: 16px;
         line-height: 20px;
         max-width: 288px;
+        padding-top: 16px;
     }
 }

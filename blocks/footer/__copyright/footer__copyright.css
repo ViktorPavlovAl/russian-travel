@@ -4,13 +4,8 @@
     margin: 0;
 }
 
-@media (max-width: 1024px) {
-
-}
-
 @media (max-width: 768px) {
     .footer__copyright {
-        padding-top: 16px;
         line-height: 14px;
     }
 }
