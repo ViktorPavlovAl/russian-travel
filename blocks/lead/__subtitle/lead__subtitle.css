@@ -5,16 +5,13 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
-    /* or 120% */
     text-align: center;
-    width: 640px;
+    max-width: 640px;
 }
 
 @media (max-width: 1024px) {
     .lead__subtitle {
         padding-bottom: 56px;
-        font-size: 30px;
-        line-height: 36px;
     }
 }
 
@@ -24,6 +21,6 @@
         padding-bottom: 40px;
         font-size: 16px;
         line-height: 20px;
-        width: 288px;
+        max-width: 288px;
     }
 }
