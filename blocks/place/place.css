@@ -16,7 +16,7 @@
     .place {
         grid-template-columns: repeat(2, minmax(min-content, max-content));
         column-gap: 28px;
-        padding-bottom: 73px;
+        /* padding-bottom: 73px; */
     }
 }
 
