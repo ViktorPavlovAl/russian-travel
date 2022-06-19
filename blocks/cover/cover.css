@@ -1,7 +1,6 @@
 .cover {
   margin: 0 auto 0;
   padding: 0;
-  width: calc(100% - 2*48px);
   display: flex;
   flex-direction: column;
   width: 100%;
