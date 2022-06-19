@@ -6,6 +6,12 @@
     padding-bottom: 37px;
 }
 
+@media (max-width: 1024px) {
+    .intro__title {
+        padding-bottom: 40px;
+    }
+}
+
 @media (max-width: 425px) {
     .intro__title {
     font-size: 32px;
