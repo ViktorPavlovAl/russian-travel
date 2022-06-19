@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     margin: 28px 48px 56px;
-    align-items: center;
 }
 
 @media (max-width: 1024px) {
