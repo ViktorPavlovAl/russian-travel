@@ -5,7 +5,7 @@
     line-height: 18px;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .footer__link {
         margin-bottom: 32px;
         font-size: 24px;
